@@ -9,4 +9,6 @@ In this repository I included everything in my learning path.
 **Explicit Intent:** This intent satisfies the request within the application component. It takes the fully qualified class name of activities or services that we want to start.
 **Implicit Intent:** This intent does not specify the component name. It invokes the component of another app to handle it.
 
+* Companion Object : https://blog.mindorks.com/companion-object-in-kotlin/
+
 
