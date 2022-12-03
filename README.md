@@ -2,6 +2,7 @@
 In this repository I included everything in my learning path.
 
 * findViewById - https://www.tutorialkart.com/kotlin-android/access-a-view-programmatically-using-findviewbyid/
+* findViewById is old fashioned. binding is used now a days. [learn more.](https://stackoverflow.com/questions/65998968/mainactivity-kt-dont-recognizing-ids-in-activity-main-xml)
 * Kotlin Basics - https://developer.android.com/kotlin/learn
 * AppCompactActivity - [Video link](https://www.google.com/search?q=appcompactactivity+in+kotlin+in+android+studio&oq=AppCompactactivity+in+kotlin+in+&aqs=chrome.2.69i57j33i10i160l4.23063j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:ef17f392,vid:AKZdB-TerNI) , [Android Documentation](https://developer.android.com/reference/androidx/appcompat/app/AppCompatActivity)
 * Intent - Explained full concept [here](https://www.javatpoint.com/kotlin-android-explicit-intent) . There are two types of intent in Android:
