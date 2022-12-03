@@ -10,5 +10,7 @@ In this repository I included everything in my learning path.
 **Implicit Intent:** This intent does not specify the component name. It invokes the component of another app to handle it.
 
 * Companion Object : https://blog.mindorks.com/companion-object-in-kotlin/
+* Volley Library: Used for internet requests. https://google.github.io/volley/requestqueue.html
+* Glide library : For loading image from website. https://github.com/bumptech/glide
 
 
