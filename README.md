@@ -16,6 +16,10 @@ In this repository I included everything in my learning path.
 * Recycler View : [link](https://developer.android.com/develop/ui/views/layout/recyclerview?gclid=CjwKCAiAhKycBhAQEiwAgf19evfoWuv_kHA-6UXPGWTEXMReNNdRfVewiW5ctg4DCuBzk6nxQ60H8BoC8ZoQAvD_BwE&gclsrc=aw.ds)
 * Custom Tabs : All you need to know is [here](https://developer.chrome.com/docs/android/custom-tabs/)
 
+**Data Management**
+
+* [Room DB](https://developer.android.com/training/data-storage/room)
+
 ## Error and Their Solution:
 
 * While using volley library for calling news api I was facing Error 403. Solution to this error is [here](https://stackoverflow.com/questions/67874965/unexpected-response-code-403-but-work-fine-in-browser)
