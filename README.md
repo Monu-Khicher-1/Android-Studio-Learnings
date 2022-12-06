@@ -15,3 +15,6 @@ In this repository I included everything in my learning path.
 * Glide library : For loading image from website. https://github.com/bumptech/glide
 * Recycler View : [link](https://developer.android.com/develop/ui/views/layout/recyclerview?gclid=CjwKCAiAhKycBhAQEiwAgf19evfoWuv_kHA-6UXPGWTEXMReNNdRfVewiW5ctg4DCuBzk6nxQ60H8BoC8ZoQAvD_BwE&gclsrc=aw.ds)
 
+## Error and Their Solution:
+
+* While using volley library for calling news api I was facing Error 403. Solution to this error is [here](https://stackoverflow.com/questions/67874965/unexpected-response-code-403-but-work-fine-in-browser)
