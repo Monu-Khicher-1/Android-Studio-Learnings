@@ -14,6 +14,7 @@ In this repository I included everything in my learning path.
 * Volley Library: Used for internet requests. https://google.github.io/volley/requestqueue.html
 * Glide library : For loading image from website. https://github.com/bumptech/glide
 * Recycler View : [link](https://developer.android.com/develop/ui/views/layout/recyclerview?gclid=CjwKCAiAhKycBhAQEiwAgf19evfoWuv_kHA-6UXPGWTEXMReNNdRfVewiW5ctg4DCuBzk6nxQ60H8BoC8ZoQAvD_BwE&gclsrc=aw.ds)
+* Custom Tabs : All you need to know is [here](https://developer.chrome.com/docs/android/custom-tabs/)
 
 ## Error and Their Solution:
 
